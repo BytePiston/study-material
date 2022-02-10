@@ -1,0 +1,51 @@
+<configuration scan="true" scanPeriod="30 seconds" debug="true">
+    <jmxConfigurator />
+    <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss} %-5level %marker %X{DEAL ID} %logger{72} - %msg%n</pattern>
+            <outputPatternAsHeader>false</outputPatternAsHeader>
+        </encoder>
+    </appender>
+    <springProfile name="dev">
+        <appender name="file" class="ch.qos.logback.core.FileAppender">
+            <encoder>
+                <pattern>%d{HH:mm:ss} %-5level %marker %X{DEAL ID} %logger{72} - %msg%n</pattern>
+                <outputPatternAsHeader>true</outputPatternAsHeader>
+            </encoder>
+            <file>sap.log</file>
+            <append>true</append>
+        </appender>
+        <logger name="com.sap" level="ALL">
+            <appender-ref ref="file" />
+        </logger>
+
+        <appender name="email" class="ch.qos.logback.classic.net.SMTPAppender">
+            <smtpHost>mail.sap.corp</smtpHost>
+            <smtpPort>587</smtpPort>
+            <to>gregor.karl.frey@sap.com</to>
+            <from>gregor.karl.frey@sap.com</from>
+            <password>Spring_2017</password>
+            <STARTTLS>true</STARTTLS>
+            <sessionViaJNDI>false</sessionViaJNDI>
+            <jndiLocation>Session</jndiLocation>
+            <subject>TESTING: %logger{72} - %m</subject>
+            <layout class="ch.qos.logback.classic.PatternLayout">
+                <pattern>%d{HH:mm:ss} %-5level %marker %X{DEAL ID} %logger{72} - %msg%n</pattern>
+            </layout>
+        </appender>
+        <logger name="com.sap" level="ALL">
+            <appender-ref ref="email" />
+        </logger>
+    </springProfile>
+
+
+    <root level="info">
+        <appender-ref ref="console" />
+    </root>
+    <logger name="ch.qos.logback" level="ALL" additive="false">
+        <appender-ref ref="console" />
+    </logger>
+    <!-- <include resource="org/springframework/boot/logging/logback/base.xml" /> <logger name="org.springframework.web" 
+        level="DEBUG" /> -->
+</configuration>
+

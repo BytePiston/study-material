@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="customer" class="com.sap.sptutorial.ioc.model.Customer" />
+    <bean id="product" class="com.sap.sptutorial.ioc.model.Product" />
+    <bean id="channel" class="com.sap.sptutorial.ioc.model.Channel" />
+    <bean id="purchase" class="com.sap.sptutorial.ioc.model.Purchase" scope="prototype">
+        <constructor-arg ref="customer" />
+        <property name="product" ref="product" />
+        <property name="channel" ref="channel" />
+    </bean>
+</beans>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>Deals</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+	<h1 th:text="${title}"/>
+	<table>
+		<tr>
+			<th>Id</th>
+			<th>Title</th>
+			<th>Description</th>
+			<th>Deal Price</th>
+			<th>Normal Price</th>
+			<th>Redeemable From</th>
+			<th>Redeemable To</th>
+		</tr>
+		<tr th:each="deal : ${deals}">
+			<td th:text="${deal.id}"></td>
+			<td th:text="${deal.title}"></td>
+			<td th:text="${deal.description}"></td>
+			<td th:text="${deal.dealPriceAmount}"></td>
+			<td th:text="${deal.normalPriceAmount}"></td>
+			<td th:text="${deal.redeemableFrom}"></td>
+			<td th:text="${deal.redeemableTo}"></td>
+		</tr>
+	</table>
+	<h1>A New Deal</h1>
+	<form action="#" th:action="@{/deal}" th:object="${newdeal}"
+		method="post">
+		<p>
+			Id: <input type="text" th:field="*{id}" autocomplete="off" />
+		</p>
+		<p>
+			Title: <input type="text" th:field="*{title}" autocomplete="off" />
+		</p>
+		<p>
+			Description: <input type="text" th:field="*{description}"
+				autocomplete="off" />
+		</p>
+		<p>
+			Deal Price: <input type="number" step="0.01" min="0" th:field="*{dealPriceAmount}"
+				autocomplete="off" />
+		</p>
+		<p>
+			Normal Price: <input type="number" step="0.01" min="0" th:field="*{normalPriceAmount}"
+				autocomplete="off" />
+		</p>
+		<p>
+			Redeemable from: <input type="date" th:field="*{redeemableFrom}"
+				autocomplete="off" />
+		</p>
+		<p>
+			Redeemable To: <input type="date" th:field="*{redeemableTo}"
+				autocomplete="off" />
+		</p>
+		<p>
+			<input type="submit" value="Submit" /> <input type="reset"
+				value="Reset" />
+		</p>
+	</form>
+</body>
+</html>

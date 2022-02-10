@@ -1,0 +1,7 @@
+---
+applications:
+- name: sptutorial-jpa-hb
+  path: target/jpa-hb-0.0.1-SNAPSHOT.jar
+  memory: 1024M
+  services:
+    - sptutorial-pg-hb

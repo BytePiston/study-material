@@ -1,0 +1,8 @@
+   {
+        "title" : "New and Exclusive",
+        "description" : "Totally hipp",
+        "availablePerCustomer" : 1,
+        "numberAvailable" : 2,
+        "daysRedeemable" : 7,
+        "redeemableFrom" : 2
+    }

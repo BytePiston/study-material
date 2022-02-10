@@ -1,0 +1,10 @@
+---
+applications:
+- name: h2
+  path: target/jdbc-tx-1.0-SNAPSHOT.jar
+  memory: 512M
+  instances: 1
+  host: h2
+  domain: cfapps.sap.hana.ondemand.com
+  env:
+      JBP_CONFIG_JAVA_OPTS: '{java_opts: -Dspring.profiles.active=h2}'

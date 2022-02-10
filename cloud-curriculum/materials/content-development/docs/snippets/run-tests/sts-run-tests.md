@@ -1,0 +1,1 @@
+- Right-click the project -> `Run as` -> `JUnit Test`

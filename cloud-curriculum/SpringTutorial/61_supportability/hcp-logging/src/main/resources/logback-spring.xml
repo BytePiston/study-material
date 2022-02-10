@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="false" scan="false">
+	<springProfile name="cloud">
+		<appender name="STDOUT-JSON" class="ch.qos.logback.core.ConsoleAppender">
+			<!-- encode and enrich full message with the required fields/tags -->
+			<encoder class="com.sap.hcp.cf.logback.encoder.JsonEncoder" />
+		</appender>
+		<root level="NONE">
+			<appender-ref ref="STDOUT-JSON" />
+		</root>
+		<logger name="org.springframework.web" level="INFO" additivity="false">
+			<appender-ref ref="STDOUT-JSON" />
+		</logger>
+		<logger name="com.sap.sptutorial" level="ALL"
+			additivity="false">
+			<appender-ref ref="STDOUT-JSON" />
+		</logger>
+	</springProfile>
+	<springProfile name="default">
+		<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+			<encoder>
+				<pattern>%d %-5level [%thread] %logger{0} [%mdc]>: %msg %replace(%xEx){'\n', ' | '}%nopex%n</pattern>
+			</encoder>
+		</appender>
+		<root level="NONE">
+			<appender-ref ref="STDOUT" />
+		</root>
+		<logger name="org.springframework.web" level="INFO" additivity="false">
+			<appender-ref ref="STDOUT" />
+		</logger>
+		<logger name="com.sap.sptutorial" level="ALL"
+			additivity="false">
+			<appender-ref ref="STDOUT" />
+		</logger>
+	</springProfile>
+</configuration>

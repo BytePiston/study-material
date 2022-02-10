@@ -1,0 +1,40 @@
+spring:
+  devtools:
+    remote:
+      secret: Bensheim
+   
+--- 
+debug: true
+spring:
+  profiles: default
+security:
+  oauth2:
+    client:
+      accessTokenUri: https://xsuaa.authentication.sap.hana.ondemand.com/oauth/token
+      userAuthorizationUri: https://xsuaa.authentication.sap.hana.ondemand.com/oauth/authorize
+      clientId: sb-na-c7e6af77-ca6a-4b15-b597-a139b4747e64
+      clientSecret: Yi9MdqfTd3s5mqPKaPstOGgKGv4=
+    resource:
+      jwt:
+        keyValue: |
+          -----BEGIN PUBLIC KEY-----
+          MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmNM3OXfZS0Uu8eYZXCgGWFgVWQX6MHnadYk3zHZ5PIPeDY3ApaSGpMEiVwn1cT6KUVHMLHcmz1gsNy74pCnmCa22W7J3BoZulzR0A37ayMVrRHh3nffgySk8u581l02bvbcpab3e3EotSN5LixGT1VWZvDbalXf6n5kq459NWL6ZzkEs20MrOEk5cLdnsigTQUHSKIQ5TpldyDkJMm2zwOlrB2R984+QdlDFmoVH7Yaujxr2g0Z96u7W9Imik6wTiFc8W7eUXfhPGn7reVLq1/5o2Nz0Jx0ejFHDwTGncs+k1RBS6DbpTOMr9tkJEc3ZsX3Ft4OtqCkRXI5hUma+HwIDAQAB
+          -----END PUBLIC KEY-----
+      id: na-c7e6af77-ca6a-4b15-b597-a139b4747e64
+      
+--- 
+debug: true
+spring:
+  profiles: cloud
+security:
+  oauth2:
+    client:
+      accessTokenUri: ${vcap.services.hello-spring-uaa.credentials.url}/oauth/token
+      userAuthorizationUri: ${vcap.services.hello-spring-uaa.credentials.url}/oauth/authorize
+      clientId: ${vcap.services.hello-spring-uaa.credentials.clientid}
+      clientSecret: ${vcap.services.hello-spring-uaa.credentials.clientsecret}
+    resource:
+      jwt:
+        keyValue: ${vcap.services.hello-spring-uaa.credentials.verificationkey}
+      id: ${vcap.services.hello-spring-uaa.credentials.xsappname}
+ 

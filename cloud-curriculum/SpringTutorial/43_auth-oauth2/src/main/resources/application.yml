@@ -1,0 +1,58 @@
+spring:
+  devtools:
+    remote:
+      secret: Bensheim
+  output:
+    ansi:
+      enabled: always
+      
+--- 
+spring:
+  profiles: sap_github
+security:
+  oauth2:
+    client:
+      accessTokenUri: https://github.wdf.sap.corp/login/oauth/access_token
+      userAuthorizationUri: https://github.wdf.sap.corp/login/oauth/authorize
+      clientId: fc012ded162d7860fe34
+      clientSecret: 012df4f374f5dcee42ef9a83cb498ed028abb326
+      clientAuthenticationScheme: form
+    resource:
+      userInfoUri: https://github.wdf.sap.corp/api/v3/user
+model:
+  auth-server: SAP GitHub
+--- 
+spring:
+  profiles: github
+security:
+  oauth2:
+    client:
+      accessTokenUri: https://github.com/login/oauth/access_token
+      userAuthorizationUri: https://github.com/login/oauth/authorize
+      clientId: 76b2c78d812ac3efa93e
+      clientSecret: ec8e00208cd88f1d007f27b2148c69ec69d9ab20
+      clientAuthenticationScheme: form
+    resource:
+      userInfoUri: https://api.github.com/user
+model:
+  auth-server: GitHub
+      
+---
+debug: true
+spring:
+  profiles: facebook
+security:
+  oauth2:
+    client:
+      clientId: 1704862309787823
+      clientSecret: 0e00aa80052367ae51d8899bdadba5b2
+      accessTokenUri: https://graph.facebook.com/oauth/access_token
+      userAuthorizationUri: https://www.facebook.com/dialog/oauth
+      tokenName: oauth_token
+      authenticationScheme: query
+      clientAuthenticationScheme: form
+    resource:
+      userInfoUri: https://graph.facebook.com/me
+# https://developers.facebook.com
+model:
+  auth-server: Facebook

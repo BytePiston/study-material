@@ -1,0 +1,11 @@
+---
+applications:
+- name: post
+  path: target/jdbc-tx-1.0-SNAPSHOT.jar
+  buildpack: java_buildpack
+  memory: 512M
+  instances: 1
+  host: post
+  domain: cfapps.sap.hana.ondemand.com
+  services:
+    - postgres

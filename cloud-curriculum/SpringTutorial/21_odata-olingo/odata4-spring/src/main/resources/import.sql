@@ -1,0 +1,2 @@
+insert into CUSTOMER (ID, DISPLAY_NAME, DATE_OF_BIRTH) values (1, 'Fritz', parsedatetime('1971', 'yyyy'))
+insert into CUSTOMER (ID, DISPLAY_NAME, DATE_OF_BIRTH) values (2, 'Heinz', parsedatetime('1961', 'yyyy'))

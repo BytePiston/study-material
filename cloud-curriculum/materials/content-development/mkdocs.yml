@@ -1,0 +1,130 @@
+site_name: Cloud Curriculum Materials
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: blue
+  custom_dir: docs/template-overrides
+  features:
+    - navigation.instant
+    - navigation.sections
+
+nav:
+  - Welcome: index.md
+  - Software Craftsmanship:
+      - Mindset:
+          - What is ASE: ase-mindset/what-is-ase.md
+          - Software Quality: ase-mindset/software-quality.md
+          - Pair Programming: ase-mindset/pair-programming.md
+          - Testing Overview: ase-mindset/testing-overview.md
+      - Linting:
+          - Node.js: linting/nodejs.md
+      - Unit Testing:
+          - Introduction: unit-testing/intro.md
+          - Java: unit-testing/java.md
+          - Node.js: unit-testing/nodejs.md
+      - Test Driven Development:
+          - Introduction: test-driven-development/intro.md
+          - Java: test-driven-development/java.md
+          - Node.js: test-driven-development/nodejs.md
+      - Debugging:
+          - Node.js: debugging/nodejs.md
+      - Modern Language Features:
+          - Node.js: modern-lang-feat/nodejs.md
+      - Refactoring:
+          - Introduction: refactoring/intro.md
+          - Java: refactoring/java.md
+          - Node.js: refactoring/nodejs.md
+      - Asynchronous Programming:
+          - Introduction: async/intro.md
+          - Node.js: async/nodejs.md
+      - Decoupling & Test Isolation:
+          - Introduction: decoupling/intro.md
+          - Java: decoupling/java.md
+          - Node.js: decoupling/nodejs.md
+          - Dependency Injection Frameworks - Java: decoupling/di-frameworks-java.md
+      - Behaviour Driven Development:
+          - Introduction: bdd/intro.md
+          - Java: bdd/java.md
+          - Node.js: bdd/nodejs.md
+      - Docker:
+          - Quickstart: docker/quickstart.md
+      - Developing inside a Container:
+          - Node.js: dev-containers/nodejs.md
+  - Cloud Development:
+      - HTTP REST:
+          - Introduction: http-rest/intro.md
+          - Java: http-rest/java.md
+          - Node.js: http-rest/nodejs.md
+      - Logging:
+          - Introduction: logging/intro.md
+          - Java: logging/java.md
+          - Node.js: logging/nodejs.md
+      - Persistence:
+          - Introduction: persistence/intro.md
+          - Java: persistence/java.md
+          - Node.js: persistence/nodejs.md
+      - Auth:
+          - Introduction: auth/intro.md
+          - Java: auth/java.md
+          - Node.js: auth/nodejs.md
+      - Microservices: cloud-microservices/intro.md
+      - Cloud Platforms:
+          - Introduction: cloud-platforms/intro.md
+          - Cloud Foundry (Java): cloud-platforms/cloud-foundry-java.md
+          - Cloud Foundry (Node.js): cloud-platforms/cloud-foundry-nodejs.md
+          - Kubernetes (Java): cloud-platforms/kubernetes-java.md
+          - Kubernetes (Node.js): cloud-platforms/kubernetes-nodejs.md
+      - Continuous Delivery:
+          - Introduction: continuous-delivery/intro.md
+          - Cloud Foundry (Java): continuous-delivery/cloud-foundry-java.md
+          - Cloud Foundry (Node.js): continuous-delivery/cloud-foundry-nodejs.md
+          - Kubernetes (Java): continuous-delivery/kubernetes-java.md
+          - Kubernetes (Node.js): continuous-delivery/kubernetes-nodejs.md
+          - Reflection Points: continuous-delivery/reflection-points.md
+      - Distributed Logging:
+          - Introduction: distributed-logging/intro.md
+          - Cloud Foundry (Java): distributed-logging/cloud-foundry-java.md
+          - Cloud Foundry (Node.js): distributed-logging/cloud-foundry-nodejs.md
+          - Kubernetes (Java): distributed-logging/kubernetes-java.md
+          - Kubernetes (Node.js): distributed-logging/kubernetes-nodejs.md
+          - Reflection Points: distributed-logging/reflection-points.md
+      - S2S Communication:
+          - Introduction: service2service/intro.md
+          - Java: service2service/java.md
+          - Node.js: service2service/nodejs.md
+          - Reflection Points: service2service/reflection-points.md
+
+extra_css:
+  - styling.css
+
+plugins:
+  - search
+  - macros
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.tilde
+  - pymdownx.snippets:
+      base_path: "./docs"
+  - admonition
+  - codehilite:
+      linenums: true
+      guess_lang: false
+  - toc:
+      toc_depth: 3

@@ -1,0 +1,22 @@
+logging.level:
+  com.sap: DEBUG
+spring:
+  jackson:
+    date-format: yyyy-MM-dd
+    serialization:
+      write-dates-as-timestamps: false
+      indent-output: false
+connection:
+  weatherUrl: http://api.openweathermap.org/data/2.5/weather?q={city},{country}&APPID={key}
+  forecastUrl: http://api.openweathermap.org/data/2.5/forecast?q={city},{country}&APPID={key}
+  apiCode: 509347643718ec78ed291c71ff8add9c
+  proxy:
+    host: proxy.wdf.sap.corp
+    port: 8080
+  locations:
+  - city: Bensheim
+    country: Germany
+  - city: Bengaluru
+    country: India
+  - city: Trondheim
+    country: Norway

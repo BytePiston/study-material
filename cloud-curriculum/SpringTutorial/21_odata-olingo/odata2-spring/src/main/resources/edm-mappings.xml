@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<JPAEDMMappingModel xmlns="http://www.apache.org/olingo/odata2/jpa/processor/api/model/mapping">
+	<PersistenceUnit name="default">
+		<EDMSchemaNamespace>orders</EDMSchemaNamespace>
+		<JPAEntityTypes>
+			<JPAEntityType name="Customer">
+				<EDMEntityType>Customer</EDMEntityType>
+				<EDMEntitySet>Customers</EDMEntitySet>			
+			</JPAEntityType>
+			<JPAEntityType name="SalesOrder">
+				<EDMEntityType>Order</EDMEntityType>
+				<EDMEntitySet>Orders</EDMEntitySet>
+				<JPARelationships>
+					<JPARelationship name="customer">to_Customer</JPARelationship>
+				</JPARelationships>					
+			</JPAEntityType>	
+		</JPAEntityTypes>
+	</PersistenceUnit>
+</JPAEDMMappingModel>

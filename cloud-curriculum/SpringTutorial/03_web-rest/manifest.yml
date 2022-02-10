@@ -1,0 +1,17 @@
+---
+applications:
+- name: d022051-web-rest
+  memory: 512M
+  instances: 1
+  host: d022051-web-rest
+  path: target/web-rest.jar
+  domain: cfapps.sap.hana.ondemand.com
+# buildpack: sap_java_buildpack
+  env:
+# java_buildpack  
+    JAVA_OPTS: -Xdebug -Xrunjdwp:server=y,transport=dt_socket,suspend=n
+# sap_java_buildpack
+#    SPRING_PROFILES_ACTIVE: cloud
+#    JBP_CONFIG_JAVA_OPTS: '[from_environment: false, java_opts: ''-Xdebug -Xrunjdwp:server=y,transport=dt_socket,suspend=n'']'
+#
+

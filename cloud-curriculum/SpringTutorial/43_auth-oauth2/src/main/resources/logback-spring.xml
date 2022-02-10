@@ -1,0 +1,19 @@
+<configuration scan="true" scanPeriod="30 seconds" debug="true">
+	<jmxConfigurator />
+	<appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+		<withJansi>true</withJansi>
+		<layout class="ch.qos.logback.classic.PatternLayout">
+			<Pattern>%d{HH:mm:ss} %highlight(%-5level) %boldBlue(%logger{72}) - %msg%n
+			</Pattern>
+		</layout>
+	</appender>
+
+	<root level="info">
+		<appender-ref ref="console" />
+	</root>
+	<logger name="org.springframework.security" level="ALL"
+		additive="false">
+		<appender-ref ref="console" />
+	</logger>
+</configuration>
+

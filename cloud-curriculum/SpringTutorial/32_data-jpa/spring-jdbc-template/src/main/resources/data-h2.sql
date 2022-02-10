@@ -1,0 +1,1 @@
+INSERT INTO DEAL VALUES ('LEVIS_501', 'Levis 501', 'Traditional Jeans', 33.00, 70.00, PARSEDATETIME('24.12.2016', 'dd.MM.yyyy'), CURRENT_DATE(), 0);

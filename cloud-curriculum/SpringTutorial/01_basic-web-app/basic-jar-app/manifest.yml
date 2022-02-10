@@ -1,0 +1,10 @@
+---
+applications:
+- name: gf-hello-spring-jar
+  memory: 256M
+  instances: 1
+  host: gf-hello-spring-jar
+  path: target/HelloSpring.jar
+  buildpack: sap_java_buildpack
+  env:
+    SPRING_PROFILES_ACTIVE: cloud

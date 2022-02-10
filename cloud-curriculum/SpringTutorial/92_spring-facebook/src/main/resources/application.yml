@@ -1,0 +1,17 @@
+server:
+  context-path: /spring
+debug: true  
+security:
+  oauth2:
+    client:
+      clientId: 1704862309787823
+      clientSecret: 0e00aa80052367ae51d8899bdadba5b2
+      accessTokenUri: https://graph.facebook.com/oauth/access_token
+      userAuthorizationUri: https://www.facebook.com/dialog/oauth
+      tokenName: oauth_token
+      authenticationScheme: query
+      clientAuthenticationScheme: form
+    resource:
+      userInfoUri: https://graph.facebook.com/me
+      
+ # https://developers.facebook.com

@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="561px"
+   height="381px"
+   viewBox="-0.5 -0.5 561 381"
+   content="&lt;mxfile host=&quot;Electron&quot; modified=&quot;2020-06-30T12:33:14.758Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.3.1 Chrome/83.0.4103.119 Electron/9.0.5 Safari/537.36&quot; etag=&quot;fod0nqf04rHh-aT9H_oX&quot; version=&quot;13.3.1&quot; type=&quot;device&quot;&gt;&lt;diagram name=&quot;Page-1&quot; id=&quot;13e1069c-82ec-6db2-03f1-153e76fe0fe0&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;"
+   id="svg148"
+   sodipodi:docname="node_context_flow.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata152">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1918"
+     inkscape:window-height="1016"
+     id="namedview150"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="1.0766488"
+     inkscape:cx="282.33861"
+     inkscape:cy="143.97241"
+     inkscape:window-x="1904"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g138" />
+  <defs
+     id="defs2">
+    <rect
+       x="37.592451"
+       y="161.06453"
+       width="142.35403"
+       height="117.82961"
+       id="rect979" />
+    <rect
+       id="rect1015"
+       height="120.61603"
+       width="175.32671"
+       y="161.06453"
+       x="37.592451" />
+    <rect
+       x="37.592451"
+       y="161.06453"
+       width="175.32671"
+       height="120.61603"
+       id="rect1025" />
+  </defs>
+  <g
+     id="g138">
+    <rect
+       x="235.76241"
+       y="20"
+       width="113.13533"
+       height="40"
+       rx="6.0000005"
+       ry="6"
+       fill="#ffd05d"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect4"
+       style="stroke-width:1" />
+    <path
+       d="M 292.33006,60 V 380"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="3, 3"
+       pointer-events="all"
+       id="path6" />
+    <g
+       transform="translate(21.830058,-0.5)"
+       id="g12">
+      <switch
+         id="switch10">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 40px; margin-left: 221px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">GreetingService</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="270"
+           y="44"
+           fill="#000000"
+           font-family="Verdana"
+           font-size="12px"
+           text-anchor="middle"
+           id="text8"
+           style="font-size:12px;font-family:Verdana;text-anchor:middle;fill:#000000"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1029">GreetingService</tspan></text>
+      </switch>
+    </g>
+    <rect
+       x="287.33005"
+       y="123.77641"
+       width="9.9999695"
+       height="226.22359"
+       fill="#ffd05d"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect14" />
+    <rect
+       x="433.04956"
+       y="20"
+       width="125.25413"
+       height="40"
+       rx="6"
+       ry="6"
+       fill="#ffd05d"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect16"
+       style="stroke-width:1" />
+    <path
+       d="M 495.67664,60 V 380"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="3, 3"
+       pointer-events="all"
+       id="path18" />
+    <g
+       transform="translate(65.17664,-0.5)"
+       id="g24">
+      <switch
+         id="switch22">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 40px; margin-left: 371px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">GreetingDBService</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="430"
+           y="44"
+           fill="#000000"
+           font-family="Verdana"
+           font-size="12px"
+           text-anchor="middle"
+           id="text20"
+           style="font-size:12px;font-family:Verdana;text-anchor:middle;fill:#000000"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1031">GreetingDBService</tspan></text>
+      </switch>
+    </g>
+    <rect
+       x="490.67664"
+       y="140"
+       width="10"
+       height="200"
+       fill="#ffd05d"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect26" />
+    <rect
+       x="92.71418"
+       y="20"
+       width="107.8812"
+       height="40"
+       rx="6.0000005"
+       ry="6"
+       fill="#ffd05d"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect28"
+       style="stroke-width:1" />
+    <path
+       d="M 146.65478,60 V 380"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="3, 3"
+       pointer-events="all"
+       id="path30" />
+    <g
+       transform="translate(16.15478,-0.5)"
+       id="g36">
+      <switch
+         id="switch34">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 40px; margin-left: 81px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">GreetingRouter</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="130"
+           y="44"
+           fill="#000000"
+           font-family="Verdana"
+           font-size="12px"
+           text-anchor="middle"
+           id="text32"
+           style="font-size:12px;font-family:Verdana;text-anchor:middle;fill:#000000"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1027">GreetingRouter</tspan></text>
+      </switch>
+    </g>
+    <rect
+       x="141.65479"
+       y="120"
+       width="10"
+       height="240"
+       fill="#ffd05d"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect38" />
+    <path
+       d="m 151.65478,124.29 h 120 q 10,0 5.94,-0.14 l -4.06,-0.13"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path40" />
+    <path
+       d="m 286.21006,124 -6.99,3.52 -0.02,-7 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path42" />
+    <text
+       x="216.65479"
+       y="119.60679"
+       fill="#000000"
+       font-family="Verdana"
+       font-size="12px"
+       text-anchor="middle"
+       id="text44"
+       style="font-size:12px;font-family:Verdana;text-anchor:middle;fill:#000000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan1035">createGreeting(req)</tspan></text>
+    <path
+       d="m 297.14555,140.36609 186.02415,0"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path50"
+       style="stroke-width:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       d="m 489.55664,140 -6.99,3.52 -0.01,-7 z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path52" />
+    <g
+       transform="translate(43.451011,-0.5)"
+       id="g58">
+      <text
+         x="350"
+         y="137"
+         fill="#000000"
+         font-family="Verdana"
+         font-size="12px"
+         text-anchor="middle"
+         id="text54"
+         style="font-size:12px;font-family:Verdana;text-anchor:middle;fill:#000000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan1037">incrementGreetingCount(req)</tspan></text>
+    </g>
+    <ellipse
+       cx="20"
+       cy="25"
+       rx="5"
+       ry="5"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="ellipse60" />
+    <path
+       d="M 20 30 L 20 46.67 M 20 33.33 L 10 33.33 M 20 33.33 L 30 33.33 M 20 46.67 L 10 60 M 20 46.67 L 30 60"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path62" />
+    <path
+       d="M 20 60 L 20 380"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="3 3"
+       pointer-events="all"
+       id="path64" />
+    <path
+       d="m 19.93,120.29 114.5791,0"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path66"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="76.108444"
+       y="117"
+       fill="#000000"
+       font-family="Verdana"
+       font-size="12px"
+       text-anchor="middle"
+       id="text70"
+       style="font-size:12px;font-family:Verdana;text-anchor:middle;fill:#000000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan1033">/hello?name=Bob</tspan></text>
+    <rect
+       x="30.742523"
+       y="156.02879"
+       width="146.47388"
+       height="114.2272"
+       fill="#e1e5ff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect76"
+       style="stroke-width:0.999998" />
+    <rect
+       x="186.10954"
+       y="185.13905"
+       width="181.76437"
+       height="107.03906"
+       fill="#e1e5ff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect84"
+       style="stroke-width:1" />
+    <g
+       transform="translate(-0.5 -0.5)"
+       id="g90" />
+    <rect
+       x="378.17822"
+       y="205.82037"
+       width="181.82179"
+       height="107.90124"
+       fill="#e1e5ff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect92"
+       style="stroke-width:1" />
+    <g
+       transform="translate(-0.5 -0.5)"
+       id="g98" />
+    <path
+       d="m 490.18698,340 -191.2643,-0.34"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="3, 3"
+       pointer-events="stroke"
+       id="path100"
+       style="stroke-width:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       d="m 307.27006,335.17 -9.01,4.48 8.99,4.52"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path102" />
+    <text
+       x="398.25748"
+       y="337"
+       fill="#000000"
+       font-family="Helvetica"
+       font-size="11px"
+       text-anchor="middle"
+       id="text104"
+       style="font-size:11px;font-family:Helvetica;text-anchor:middle;fill:#000000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan1058">return</tspan></text>
+    <path
+       d="m 287.03319,349.31 -133.16841,0.84"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="3, 3"
+       pointer-events="stroke"
+       id="path110"
+       sodipodi:nodetypes="cc" />
+    <path
+       d="m 161.71478,345.59 -8.97,4.56 9.03,4.44"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path112" />
+    <text
+       x="220.41676"
+       y="347"
+       fill="#000000"
+       font-family="Helvetica"
+       font-size="11px"
+       text-anchor="middle"
+       id="text114"
+       style="font-size:11px;font-family:Helvetica;text-anchor:middle;fill:#000000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan1055">return</tspan></text>
+    <path
+       d="M 22.23,360.0578 H 141.31096"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path120"
+       sodipodi:nodetypes="cc" />
+    <path
+       d="m 28.12,357.7178 -7,2.34 7,2.33"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path122" />
+    <text
+       x="71"
+       y="357"
+       fill="#000000"
+       font-family="Verdana"
+       font-size="12px"
+       text-anchor="middle"
+       id="text124"
+       style="font-size:12px;font-family:Verdana;text-anchor:middle;fill:#000000;"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan1052">Hello Bob!</tspan></text>
+    <rect
+       x="0"
+       y="0"
+       width="40"
+       height="20"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect130" />
+    <g
+       transform="translate(-0.5 -0.5)"
+       id="g136">
+      <switch
+         id="switch134">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 10px; margin-left: 1px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Bob</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="20"
+           y="14"
+           fill="#000000"
+           font-family="Helvetica"
+           font-size="12px"
+           text-anchor="middle"
+           id="text132">Bob</text>
+      </switch>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text977"
+       style="font-size:24px;line-height:0.75;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';white-space:pre;shape-inside:url(#rect979);"
+       transform="translate(-4.1796358,-5.9080663)"><tspan
+         x="37.591797"
+         y="176.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">{
+</tspan></tspan><tspan
+         x="37.591797"
+         y="194.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  &quot;level&quot;: &quot;debug&quot;,
+</tspan></tspan><tspan
+         x="37.591797"
+         y="212.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  &quot;msg&quot;: &quot;endpoint called&quot;,
+</tspan></tspan><tspan
+         x="37.591797"
+         y="230.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1">&quot;class&quot;: &quot;GreetingRouter&quot;,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
+</tspan></tspan><tspan
+         x="37.591797"
+         y="248.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006700;fill-opacity:1">&quot;userId&quot;: &quot;42&quot;</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
+</tspan></tspan><tspan
+         x="37.591797"
+         y="266.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">}</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal'"
+       x="172.25829"
+       y="173.8837"
+       id="text985"><tspan
+         sodipodi:role="line"
+         id="tspan983"
+         x="172.25829"
+         y="173.8837" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal'"
+       x="176.82693"
+       y="221.81543"
+       id="text997"><tspan
+         sodipodi:role="line"
+         id="tspan995"
+         x="176.82693"
+         y="221.81543" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal'"
+       x="161.7213"
+       y="275.01349"
+       id="text1005"><tspan
+         sodipodi:role="line"
+         id="tspan1003"
+         x="161.7213"
+         y="275.01349" /></text>
+    <text
+       transform="translate(152.3245,20.098556)"
+       style="font-size:24px;line-height:0.75;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';white-space:pre;shape-inside:url(#rect1015);"
+       id="text1013"
+       xml:space="preserve"><tspan
+         x="37.591797"
+         y="176.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">{
+</tspan></tspan><tspan
+         x="37.591797"
+         y="194.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  &quot;level&quot;: &quot;info&quot;,
+</tspan></tspan><tspan
+         x="37.591797"
+         y="212.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  &quot;msg&quot;: &quot;greeting created...&quot;,
+</tspan></tspan><tspan
+         x="37.591797"
+         y="230.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1">&quot;class&quot;: &quot;GreetingService&quot;,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
+</tspan></tspan><tspan
+         x="37.591797"
+         y="248.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006700;fill-opacity:1">&quot;userId&quot;: &quot;42&quot;</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
+</tspan></tspan><tspan
+         x="37.591797"
+         y="266.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">}</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1023"
+       style="font-size:24px;line-height:0.75;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';white-space:pre;shape-inside:url(#rect1025);"
+       transform="translate(345.98096,40.996735)"><tspan
+         x="37.591797"
+         y="176.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">{
+</tspan></tspan><tspan
+         x="37.591797"
+         y="194.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  &quot;level&quot;: &quot;info&quot;,
+</tspan></tspan><tspan
+         x="37.591797"
+         y="212.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  &quot;msg&quot;: &quot;greeting count incr...&quot;,
+</tspan></tspan><tspan
+         x="37.591797"
+         y="230.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1">&quot;class&quot;: &quot;GreetingDBService&quot;,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
+</tspan></tspan><tspan
+         x="37.591797"
+         y="248.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006700;fill-opacity:1">&quot;userId&quot;: &quot;42&quot;</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
+</tspan></tspan><tspan
+         x="37.591797"
+         y="266.95508"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">}</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal'"
+       x="579.42474"
+       y="168.28896"
+       id="text1047"><tspan
+         sodipodi:role="line"
+         id="tspan1045"
+         x="579.42474"
+         y="168.28896" /></text>
+    <path
+       id="path1049"
+       pointer-events="all"
+       stroke-miterlimit="10"
+       stroke="#000000"
+       fill="#000000"
+       d="m 140.68501,119.94913 -6.99,3.52 -0.02,-7 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal'"
+       x="415.60596"
+       y="376.59604"
+       id="text1062"><tspan
+         sodipodi:role="line"
+         id="tspan1060"
+         x="415.60596"
+         y="376.59604" /></text>
+  </g>
+  <switch
+     id="switch146">
+    <g
+       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+       id="g140" />
+    <a
+       transform="translate(0,-5)"
+       xlink:href="https://desk.draw.io/support/solutions/articles/16000042487"
+       target="_blank"
+       id="a144">
+      <text
+         text-anchor="middle"
+         font-size="10px"
+         x="50%"
+         y="100%"
+         id="text142">Viewer does not support full SVG 1.1</text>
+    </a>
+  </switch>
+</svg>

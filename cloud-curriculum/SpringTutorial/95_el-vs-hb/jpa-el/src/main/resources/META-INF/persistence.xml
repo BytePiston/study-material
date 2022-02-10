@@ -1,0 +1,20 @@
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+	version="2.0">
+	<persistence-unit name="default">
+		<class>com.sap.sptutorial.jpa.el.customer.model.Customer</class>
+		<class>com.sap.sptutorial.jpa.el.customer.model.Phone</class>
+	<exclude-unlisted-classes>false</exclude-unlisted-classes>
+		<properties>
+			<property name="eclipselink.weaving" value="static" />
+			<property name="eclipselink.target-database" value="PostgreSQL"/>
+			<property name="eclipselink.logging.level" value="FINEST" />
+			<property name="javax.persistence.schema-generation.scripts.action" value="create"></property>
+			<property name="javax.persistence.schema-generation.create-source" value="metadata-then-script"></property>
+			<property name="javax.persistence.schema-generation.drop-source" value="metadata-then-script"></property>
+			<property name="eclipselink.ddl-generation" value="create-tables"></property>
+			<property name="eclipselink.ddl-generation.output-mode" value="sql-script"></property>
+		</properties>
+	</persistence-unit>
+</persistence>

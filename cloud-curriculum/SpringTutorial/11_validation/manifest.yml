@@ -1,0 +1,6 @@
+---
+applications:
+- name: spring-tutorial-rest
+  memory: 512M
+  host: spring-tutorial-rest
+  domain: cfapps.sap.hana.ondemand.com

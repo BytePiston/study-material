@@ -1,0 +1,21 @@
+---
+spring:
+  profiles: default
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://localhost:5432/hibernatetest
+    username: D022051
+    password: test
+  jpa:
+    open-in-view: true
+    properties:
+      hibernate:
+        show_sql: true
+        use_sql_comments: true
+        format_sql: true
+server:
+  port: 8082
+        
+---
+spring:
+  profiles: cloud

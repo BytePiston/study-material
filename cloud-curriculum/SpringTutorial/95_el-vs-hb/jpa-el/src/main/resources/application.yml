@@ -1,0 +1,21 @@
+---
+spring:
+  profiles: default
+  datasource:
+    platform: postgres
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/eclipselinktest
+    username: D022051
+    password: test
+    min-idle: 1
+server:
+  port: 8081
+logging:
+  level:
+    com.sap.sptutorial: ALL 
+    org.springframework.web.servlet: INFO  
+---
+spring:
+  profiles: cloud
+     
+    

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.egit.core.GitProvider">
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,04_hcp-cf/app"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,42_auth-basic"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,43_auth-oauth2"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,91_authentication-saml"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,91_authentication-saml-test"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,06_spring-ioc/autowired-bean-definition"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,01_basic-web-app/basic-jar-app"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,01_basic-web-app/basic-war-app"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,01_basic-web-app"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,06_spring-ioc/custom-scope"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,36_data-rest"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,36_data-rest/data-rest-customer"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,36_data-rest/data-rest-deal"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,04_hcp-cf"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,06_spring-ioc/java-bean-definition"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,31_data-jdbc-tx"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,95_el-vs-hb/jpa-el"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,95_el-vs-hb/jpa-hb"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,95_el-vs-hb"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,06_spring-ioc/manual-bean-definition"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,21_odata-olingo"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,21_odata-olingo/odata2-spring"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,21_odata-olingo/odata4-spring"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,40_rest-client"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,40_rest-client/rest-client-hystrix"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,40_rest-client/rest-client-sync-async"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,05_spring-context"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,92_spring-facebook"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,06_spring-ioc"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,32_data-jpa"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,32_data-jpa/data-rest"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,32_data-jpa/eclipselink"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,32_data-jpa/hibernate"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,32_data-jpa/openjpa"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,33_data-mongodb"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,61_supportability"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,61_supportability/spring-support-logging"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,61_supportability/spring-support-metrics"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,32_data-jpa/stored-procedure"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,11_validation/validation-annotation"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,11_validation/validation-custom"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,11_validation"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,11_validation/validation-grouping"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,11_validation/validation-jpa"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,11_validation/validation-serialization"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,02_web-mvc"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,03_web-rest"/>
+<project reference="1.0,git@github.wdf.sap.corp:d022051/SpringTutorial.git,master,06_spring-ioc/xml-bean-definition"/>
+</provider>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1476732584621_8" label="HCPTests" name="HCPTests">
+<item elementID="=app" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hcp-cf" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1476692964746_3" label="JumpStart" name="JumpStart">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/basic-web-app" type="4"/>
+<item elementID="=basic-war-app" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=basic-jar-app" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1476715902886_4" label="OData" name="OData">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/odata-spring-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/odata2-spring" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/odata4-spring" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1476732807073_12" label="RestClient" name="RestClient">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rest-client" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rest-client-hystrix" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rest-client-sync-async" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1476732759644_11" label="Security" name="Security">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/auth-basic" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/auth-oauth2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/authentication-saml" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/authentication-saml-test" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-facebook" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.ui.resourceWorkingSetPage" id="1476444927195_1" label="SpringContext" name="SpringContext">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/xml-bean-definition" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-ioc" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/java-bean-definition" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/autowired-bean-definition" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/custom-scope" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-context" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/manual-bean-definition" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1476732648726_9" label="SpringData" name="SpringData">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-jpa" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jpa-hb-el" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jdbc-tx" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jpa-el" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jpa-hb" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-jpa-data-rest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-jpa-eclipselink" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-jpa-hibernate" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-jpa-openjpa" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-mongo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/stored-procedure" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1476732710023_10" label="SpringDataRest" name="SpringDataRest">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/data-rest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/data-rest-customer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/data-rest-deal" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1476721080883_5" label="SpringMvc" name="SpringMvc">
+<item elementID="=web-mvc" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=web-rest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1476730530862_7" label="Supportability" name="Supportability">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-support" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-support-logging" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-support-metrics" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1476729362549_6" label="Validation" name="Validation">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/validation" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/vaildation-annotation" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/vaildation-custom" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/validation-grouping" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/validation-jpa" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/validation-serialization" type="4"/>
+</workingSets>
+</psf>

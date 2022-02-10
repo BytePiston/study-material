@@ -1,0 +1,8 @@
+---
+applications:
+- name: spring-jdbc-template
+  memory: 512M
+  host: d022051-spring-jdbc-template
+  domain: cfapps.sap.hana.ondemand.com
+  services:
+  - d022051_pg

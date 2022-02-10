@@ -1,0 +1,22 @@
+endpoints:
+  sensitive: false
+management:
+  security:
+    enabled: false
+    
+---
+spring:
+  profiles: default
+  datasource:
+    url: jdbc:postgresql://localhost:5432/workshop?schema=myschema
+    username: D022051
+    password: test
+init_sql: classpath:init_h2.sql
+          
+---
+spring:
+  profiles: cloud
+
+init_sql: classpath:init_pg.sql
+  
+  
